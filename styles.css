@@ -1,0 +1,49 @@
+body {
+    background-color: black;
+    margin: 0;
+}
+#container {
+    background-color: white;
+    margin: 0 auto;
+    width: 500px;
+}
+
+#container .image {
+    width: 100%;
+}
+
+.title i,
+.title div {
+    display: inline-block;
+}
+
+#ione {
+    width: 5%;
+    margin: 5px;
+}
+
+#content {
+    width: 85%;
+    text-align: start;
+}
+
+#itwo {
+    text-align: end;
+}
+
+.footer div {
+    display: inline-block;
+}
+#content2 {
+    width: 90%;
+    margin: 5px;
+}
+
+#ithree {
+    text-align: end;
+}
+
+#content4 {
+    margin: 5px;
+    text-align: left;
+}
